@@ -1,0 +1,2 @@
+# extension_file_type
+extension_file_type
